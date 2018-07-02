@@ -7,4 +7,4 @@ and 30th contour gives us the requieed contour we apply ractangle function and g
 ![alt text](3.png "This is the source image")
 
 
-![alt text](cropped_img.png "We are to extract this from this")
+![alt text](cropped_img.jpg "We are to extract this from this")
