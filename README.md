@@ -12,6 +12,6 @@ and 30th contour gives us the requieed contour we apply ractangle function and g
  <tr>
   <td align='center'>We have these screenshots</td>
   <td></td>
-  <td align='cneter'>We are to extract this from this</td>
+  <td align='center'>We are to extract this from this</td>
  </tr>
 </table>
