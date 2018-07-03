@@ -6,7 +6,7 @@ and 30th contour gives us the requieed contour we apply ractangle function and g
 <table>
  <tr>
   <td><img src="3.png"> </td>
-  <td><img src="https://png.icons8.com/windows/1600/long-arrow-right.png"></td>
+  <td width="200px"><img src="https://png.icons8.com/windows/1600/long-arrow-right.png"></td>
   <td><img src="cropped_img.jpg"We are to extract this from this")</td>
  </tr>
  <tr>
