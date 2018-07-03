@@ -10,8 +10,8 @@ and 30th contour gives us the requieed contour we apply ractangle function and g
   <td><img src="cropped_img.jpg"We are to extract this from this")</td>
  </tr>
  <tr>
-  <td>We have these screenshots</td>
+  <td align='center'>We have these screenshots</td>
   <td></td>
-  <td>We are to extract this from this</td>
+  <td align='cneter'>We are to extract this from this</td>
  </tr>
 </table>
