@@ -1,4 +1,4 @@
-# DOI_Extraction
+# ROI_Extraction
 
 In this script we load the file into python framework using opencv's cv2 and then make other grayscale varient of that.
 On that greyscale varint we apply thresholding keeping in veiw that ROI(region of intrest) has black background. we applying contouring
